@@ -1,4 +1,6 @@
 # This program prints Hello, world!
 
-print('Hello, world!')
-print("revert")
+print('Hello, team!')
+print ("hello class")
+print("commit")
+print("pull commit")
